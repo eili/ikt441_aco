@@ -1,0 +1,10 @@
+no,dovre,Dovre,11,459,61.983333,9.25
+no,fagernes,Fagernes,01,,60.516667,11.166667
+no,oslo,Oslo,12,808690,59.916667,10.75
+no,bergen,Bergen,07,214154,60.391111,5.324722
+no,drammen,Drammen,04,90692,59.7425,10.211667
+no,kristiansand sor,Kristiansand Sør,19,,58.166667,8
+no,arendal,Arendal,02,,58.460278,8.766667
+no,honefoss,Hønefoss,04,13826,60.166667,10.3
+no,stavanger,Stavanger,14,173535,58.966667,5.75
+no,trondheim,Trondheim,16,146930,63.416667,10.416667
