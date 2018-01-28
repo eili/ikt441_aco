@@ -26,3 +26,12 @@ Michael Herrmann
 • Swarm Intelligence, From Natural to Artificial Systems,
 Ukradnute kde sa dalo
 • Swarm Intelligence Introduction, Thiemo Krink
+
+
+Github:
+echo "# ikt441_aco" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:eili/ikt441_aco.git
+git push -u origin master
